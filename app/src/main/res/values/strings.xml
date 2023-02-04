@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Layout App</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="todo">TODO</string>
+    <string name="overcast">Overcast</string>
+    <string name="thunder">Thunder</string>
+    <string name="sunny">Sunny</string>
+    <string name="_34_c">34°C</string>
+</resources>
